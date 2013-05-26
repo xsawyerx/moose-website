@@ -40,41 +40,50 @@ msgstr "מצגות"
 
 msgid "home body"
 msgstr ""
-"<p>מוס היא <a href='http://www.perl.com/pub/a/1999/03/pm.html'>מערכת אובייקטים פוסט-מודרנית</a> עבור פרל 5 אשר מוציאה את השעמום מכתיבת פרל מונחה-עצמים. מוס משאילה את כל היכולות הטובות ביותר מפרל 6, <acronym title='Common Lisp Object System'>CLOS</acronym> (ליספ), סמאל-טוק, ג'אווה, בטא, OCaml, רובי ועוד, תוך כדי שמירת נאמנות למקורותיה של פרל 5.</p>"
-"<p>מוס מוכנה ב-100% לשימוש מלא ונעשה בה שימוש מלא במספר מערכות הגודל מיום ליום. <a href='http://search.cpan.org/dist/Moose'>נסו אותה היום!</a></p>"
+"<p>מוס היא <a href='http://www.perl.com/pub/a/1999/03/pm.html'>מערכת אובייקטים פוסט-מודרנית</a> עבור פרל 5 אשר מפגיה את השעמום שבכתיבת פרל מונחה-עצמים. מוס משאילה את היכולות הטובות ביותר מפרל 6, <acronym title='Common Lisp Object System'>CLOS</acronym> (ליספ), סמאל-טוק, ג'אווה, בטא, אוקאמל, רובי ועוד, תוך כדי שמירת נאמנות למקורותיה של פרל 5.</p>"
+"<p>מוס מוכנה ב-100% לשימוש מלא ונעשה בה שימוש נרחב במספר מערכות הגודל מיום ליום. <a href='http://search.cpan.org/dist/Moose'>נסו אותה היום!</a></p>"
 
 # about
 
 msgid "about body"
 msgstr ""
-"<p>מוס היא תרחבה של מערכת האובייקטים של פרל 5. המטרה העיקרית של מוס היא להפוך תכנות מובנה עצמים בפרל 5 לקל יותר, עקבי יותר ופחות מעייף. עם מוס אפשר לחשוב יותר על מה רוצים לעשות ופחות על המכניקה של <acronym title='object-oriented programming'>תוכנות מובנה עצמים</acronym>.</p>"
-"<p><a href='#code_sample' rel='facebox'>לחץ/לחצי כאן כדי לראות דוגמה של איך מוס נראה</a>.</p>"
+"<p>מוס היא הרחבה של מערכת האובייקטים של פרל 5. המטרה העיקרית של מוס היא להפוך תכנות מובנה עצמים בפרל 5 לקל יותר, עקבי יותר ופחות מעייף. עם מוס אפשר לחשוב יותר על מה רוצים לעשות ופחות על המכניקה של <acronym title='object-oriented programming'>תוכנות מובנה עצמים</acronym>.</p>"
+"<p><a href='#code_sample' rel='facebox'>דוגמה של קוד מוס</a>.</p>"
 
 msgid "about new to moose header"
-msgstr "לא מכיר/ה את מוס?"
+msgstr "חדש/ה למוס?"
 
+# FIXME #
 msgid "about new to moose body"
 msgstr ""
-"<p>אם אינך מכיר/ה את מוס, המקום הטוב ביותר להתחיל בו הוא במסמכים של<a href='http://search.cpan.org/dist/Moose/lib/Moose/Manual.pod'><code>Moose::Manual</code></a>, ולאחר מכן לעבור על דוגמאות קוד במסמך <a href='http://search.cpan.org/dist/Moose/lib/Moose/Cookbook.pod'><code>Moose::Cookbook</code></a>. ההקדמה תראה לך מהו מוס, ואיך הוא הופך <acronym title='object orientation'>OO</acronym> של פרל 5 לטוב יותר.</p>"
-"<p>המתכונים שבספר המתכונים לגבי הבסיס של מוס יעזור לך להבין הרבה מהיכולות של מוס מהר. ברגע שהתחלת להבין מה מוס יכול לעשות, אפשר להשתמש בתיעוד של <acronym title='application programming interface'>הממשק לתכנות מחשבים (API)</acronym> לקבל עוד מידע לגבי יכולות שיעניינו אותך.</p>"
+"<p>אם אינך מכיר/ה את מוס, המקום הטוב ביותר להתחיל בו הוא במסמכים של<a href='http://search.cpan.org/dist/Moose/lib/Moose/Manual.pod'><code>Moose::Manual</code></a>, ולאחר מכן לעבור על דוגמאות קוד במסמך <a href='http://search.cpan.org/dist/Moose/lib/Moose/Cookbook.pod'><code>Moose::Cookbook</code></a>. ההקדמה תראה לך מהו מוס, ואיך הוא הופך את תכנות מונחה עצמים (<acronym title='object orientation'>OO</acronym>) של פרל 5 לטוב יותר.</p>"
+"<p>המתכונים שבספר המתכונים מוס יעזורו לך להבין הרבה מהיכולות של מוס מהר. ברגע שתתחיל/י להבין מה מוס יכול לעשות, תוכל/י להשתמש בתיעוד של <acronym title='application programming interface'>הממשק לתכנות מחשבים (API)</acronym> לקבל עוד מידע לגבי יכולות נוספות שיעניינו אותך.</p>"
+"<p>מוס גם כיכבה במספר ספרים:</p>"
+"<ul>"
+"<li><a href='http://www.onyxneon.com/books/modern_perl/index.html'>Modern Perl</a></li>"
+"<li><a href='http://apress.com/book/view/1430223650'>The Definitive Guide to Catalyst</a></li>"
+"<li><a href='http://perlmoderne.fr/'>Perl Moderne</a>"
+"</ul>"
 
 msgid "about organization list header"
 msgstr "ארגונים שמשתמשים במוס"
 
+# FIXME #
 msgid "about organization list body"
 msgstr "<p>מספר גדול של ארגונים מסביב לעולם משתמשים במוס, הנה כמה מהם.</p>"
 
 # download
 
 msgid "download body"
-msgstr "<p>מוס זמין להורדה מה-<acronym title='Comprehensive Perl Archive Network'>CPAN</acronym>, פלטפורמת המודולים של פרל המאורחת על מראות בכל רחבי העולם. למטה ישנם מספר לינקים למוס ולמודולים הקשורים למוס. <a href='http://cpants.perl.org/dist/used_by/Moose'>כאן ניתן למצוא רשימה</a> של מודולים נוספים ב<acronym title='Comprehensive Perl Archive Network'>CPAN</acronym> אשר משתמשים במוס.</p>"
+msgstr "<p>מוס ומערכת המודולים הקשורים זמינים להורדה מה-<acronym title='Comprehensive Perl Archive Network'>CPAN</acronym>, פלטפורמת המודולים של פרל המאורחת על מראות בכל רחבי העולם. ישנם גם מודולים אחרים ב-CPAN העושים שימוש במוס.
 
 msgid "download info Moose"
-msgstr "הצפת מוס עצמה"
+msgstr "הפצת מוס עצמה"
 
 msgid "download info <code>Task::Moose</code>"
 msgstr "אוסף של תוספות מצויינות למוס"
 
+# FIX ME #
 msgid "download info <code>Task::Kensho</code>"
 msgstr "אוסף של מודולי פרל מודרניים מעולים"
 
